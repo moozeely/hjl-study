@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fortinet/fortigate命令/"}
+{"dg-publish":true,"permalink":"/fortinet/fortigate/"}
 ---
 
 # 常用命令

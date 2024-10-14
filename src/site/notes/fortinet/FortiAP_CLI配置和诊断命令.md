@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fortinet/FortiAP_CLI配置和诊断命令/"}
+{"dg-publish":true,"permalink":"/fortinet/forti-ap-cli/"}
 ---
 
 7.4.2 
